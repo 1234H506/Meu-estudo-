@@ -1,3 +1,14 @@
 body{
-    background-color: black;
+    background: #573824 url("./img/bg-image.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#page {
+    border: red solid 2px;
+    
+}
+img{
+    border-radius: 16px;
 }
